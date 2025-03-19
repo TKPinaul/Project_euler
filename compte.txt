@@ -1,5 +1,0 @@
-PROJET EULER
-------------
-Username: P_Kisso
-MP: KissoCode
-lien: https://projecteuler.net/archives
